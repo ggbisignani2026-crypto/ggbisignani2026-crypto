@@ -1,4 +1,4 @@
-# ¡Hola! Soy Giovanni Bisignani 👋
+# ¡Hola! Soy Giovanni Bisignani 
 
 Estudiante de la **Tecnicatura Universitaria en Programación Full Stack** en la UPC Sede Regional Punilla (Capilla del Monte). Actualmente cursando el primer año y combinando mi formación lógica con una sólida base técnica como Maestro Mayor de Obra.
 
