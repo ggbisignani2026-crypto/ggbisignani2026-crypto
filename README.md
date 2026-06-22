@@ -1,4 +1,8 @@
-# ¡Hola! Soy Giovanni Bisignani 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=180&section=header&text=Giovanni%20Bisignani&fontSize=50&animation=fadeIn&fontColor=ffffff" />
+</p>
+
+##  ¡Hola! Soy Giovanni Bisignani 
 
 Estudiante de la **Tecnicatura Universitaria en Programación Full Stack** en la UPC Sede Regional Punilla (Capilla del Monte). Actualmente cursando el primer año y combinando mi formación lógica con una sólida base técnica como Maestro Mayor de Obra.
 
