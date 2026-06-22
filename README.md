@@ -12,10 +12,9 @@ Me considero una persona proactiva, responsable, puntual y con una alta capacida
 
 
 ### 🛠️ Tecnologías y Herramientas
-- **Desarrollo Web:** HTML5, CSS3, Conceptos de Programación Full Stack (En curso)[cite: 1]
-- **Herramientas de Oficina:** Microsoft Excel (Manejo básico)[cite: 1]
-- **Otras competencias:** Gestión de Materiales de Construcción, Logística y Despacho[cite: 1]
-
+- **Desarrollo Web:** HTML5, CSS3, Conceptos de Programación Full Stack (En curso)
+- **Herramientas de Oficina:** Microsoft Excel (Manejo básico)
+- **Otras competencias:** Gestión de Materiales de Construcción, Logística y Despacho
 
 ---
 
