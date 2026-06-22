@@ -16,5 +16,5 @@ Estudiante de programación con base técnica como Maestro Mayor de Obra. Busco 
 ## Enlaces de contacto
 
 - **LinkedIn:** [https://www.linkedin.com/in/giovanni-bisignani]
-- **Web Personal:** [Link a tu página publicada]
+- **Web Personal:** 
 
