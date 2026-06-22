@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=180&section=header&text=Giovanni%20Bisignani&fontSize=50&animation=fadeIn&fontColor=ffffff" />
 </p>
 
-##  ¡Hola! Soy Giovanni Bisignani 
+##  ¡Hola! 
 
 Estudiante de la **Tecnicatura Universitaria en Programación Full Stack** en la UPC Sede Regional Punilla (Capilla del Monte). Actualmente cursando el primer año y combinando mi formación lógica con una sólida base técnica como Maestro Mayor de Obra.
 
@@ -10,10 +10,12 @@ Me considero una persona proactiva, responsable, puntual y con una alta capacida
 
 ---
 
+
 ### 🛠️ Tecnologías y Herramientas
-- **Desarrollo Web:** HTML5, CSS3, Conceptos de Programación Full Stack (En curso)
-- **Herramientas de Oficina:** Microsoft Excel (Manejo básico)
-- **Otras competencias:** Gestión de Materiales de Construcción, Logística y Despacho
+- **Desarrollo Web:** HTML5, CSS3, Conceptos de Programación Full Stack (En curso)[cite: 1]
+- **Herramientas de Oficina:** Microsoft Excel (Manejo básico)[cite: 1]
+- **Otras competencias:** Gestión de Materiales de Construcción, Logística y Despacho[cite: 1]
+
 
 ---
 
@@ -32,3 +34,8 @@ Actualmente me encuentro buscando mi primera oportunidad profesional. Cuento con
 ### 📬 Conectemos:
 - 💼 **LinkedIn:** https://www.linkedin.com/in/giovanni-bisignani
 - ✉️ **Email:** bisignanigino@gmail.com
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ggbisignani2026-crypto&show_icons=true&theme=tokyonight&locale=es" alt="Estadísticas de GitHub" />
+</p>
+
