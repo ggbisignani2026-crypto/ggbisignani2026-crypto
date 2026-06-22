@@ -33,7 +33,8 @@ Actualmente me encuentro buscando mi primera oportunidad profesional. Cuento con
 ### 📬 Conectemos:
 - 💼 **LinkedIn:** https://www.linkedin.com/in/giovanni-bisignani
 - ✉️ **Email:** bisignanigino@gmail.com
-
+- ⌨️ **Pagina Personal:** https://ggbisignani2026-crypto.github.io/Currilum.github.io/
+  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ggbisignani2026-crypto&show_icons=true&theme=tokyonight&locale=es" alt="Estadísticas de GitHub" />
 </p>
