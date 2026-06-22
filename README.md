@@ -1,16 +1,20 @@
-## Hi there 👋
+## Giovanni Bisignani
 
-<!--
-**ggbisignani2026-crypto/ggbisignani2026-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenido a mi espacio profesional. Soy estudiante de la Tecnicatura Universitaria en Programación y esta web es mi carta de presentación.
 
-Here are some ideas to get you started:
+## Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estudiante de programación con base técnica como Maestro Mayor de Obra. Busco mi primer desafío laboral aplicando mis conocimientos en tecnología, logística y atención al cliente.
+
+## Tecnologías utilizadas
+
+- HTML
+- CSS
+- GitHub Pages
+
+ 
+## Enlaces de contacto
+
+- **LinkedIn:** [https://www.linkedin.com/in/giovanni-bisignani]
+- **Web Personal:** [Link a tu página publicada]
+
